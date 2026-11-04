@@ -1,0 +1,11 @@
+LéoCard 1.1 — aplicativo web progressivo (PWA)
+
+IMPORTANTE: abrir index.html diretamente no computador permite testar parte da interface, mas NÃO instala o PWA e NÃO habilita o funcionamento offline via service worker. Para instalar, hospede a pasta em um endereço HTTPS (por exemplo, GitHub Pages, gratuito) ou use localhost para testes.
+
+Instalação: publique todos os arquivos sem mudar a estrutura. Abra o endereço HTTPS no Chrome/Edge Android ou Windows e escolha Instalar aplicativo ou Adicionar à tela inicial no menu do navegador. Abra o aplicativo uma vez conectado à internet para que os arquivos sejam armazenados offline.
+
+Os dados são salvos no armazenamento local do navegador/dispositivo. Não existe sincronização entre aparelhos. Use Configurações > Exportar backup e guarde o JSON em local seguro; depois importe no outro aparelho. A importação substitui o conteúdo local.
+
+ATENÇÃO: O app é um controle pessoal, não um cartão de crédito real. Adiar e diluir parcelas não negocia dívidas com bancos nem calcula juros. Faturas são agrupadas por mês e seus vencimentos seguem as configurações atuais. Alterar o dia de vencimento não migra meses de parcelas existentes.
+
+Se o navegador limpar os dados do site, as informações podem desaparecer. Faça backup frequentemente. Para máxima segurança financeira, não use este app como único registro de dados importantes.
