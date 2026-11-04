@@ -9,3 +9,5 @@ Os dados são salvos no armazenamento local do navegador/dispositivo. Não exist
 ATENÇÃO: O app é um controle pessoal, não um cartão de crédito real. Adiar e diluir parcelas não negocia dívidas com bancos nem calcula juros. Faturas são agrupadas por mês e seus vencimentos seguem as configurações atuais. Alterar o dia de vencimento não migra meses de parcelas existentes.
 
 Se o navegador limpar os dados do site, as informações podem desaparecer. Faça backup frequentemente. Para máxima segurança financeira, não use este app como único registro de dados importantes.
+
+Atualização: datas de compras, fechamento e vencimento em DD/MM/AAAA. Os dados salvos permanecem em formato interno compatível com backups anteriores.
